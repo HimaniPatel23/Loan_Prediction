@@ -24,3 +24,5 @@ https://www.kaggle.com/altruistdelhite04/loan-prediction-problem-dataset
   g) Use other ML models like (Decision Tree, Random Forest Tree, K-NN, SVM etc) <br/>
   h) Create Confusion matrix for all classifiers, compare the results and see which classifier performed better. </i>
 
+<b> NOTE</b>: <br/>
+For this project, I have used publicaly available dataset from Kaggle to learn Machine Learning, Deep Learning and NLP methodologies for personal growth. 
